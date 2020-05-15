@@ -1,4 +1,4 @@
-# STM32F4_LIDAR
+# STM32F4_BM280
  
 1. Description
 
